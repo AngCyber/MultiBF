@@ -25,7 +25,7 @@ $ python mlayu.py
 ```
 #### Sosial Media
 ``` bash
-• WhatsApp  : 085600457223
+• WhatsApp  : Https://wa.me/qr/SKNV5EVO7S2JH1
 • Instagram : Https://www.instagram.com/Aangxd.Qwerty_
 • Donasi    : Https://saweria.co/AangXD
 • Facebook  : Https://www.facebook.com/Aang.Qwerty69
