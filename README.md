@@ -7,6 +7,8 @@ $ pkg install python git
 $ python -m pip install --upgrade pip
 $ git clone https://github.com/AngCyber/MultiBF
 $ cd MultiBF
+$ ls
+$ git pull
 $ pip install -r multi.tools
 $ python mlayu.py
 ```
