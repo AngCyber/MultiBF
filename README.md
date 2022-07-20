@@ -23,3 +23,10 @@ $ python mlayu.py
 > Untuk melihat versi perangkat di hp kalian ketik : uname -m
 > Untuk melihat versi python di hp kalian ketik : python --version
 ```
+#### Sosial Media
+``` bash
+• WhatsApp  : 085600457223
+• Instagram : Https://www.instagram.com/Aangxd.Qwerty_
+• Donasi    : Https://saweria.co/AangXD
+• Facebook  : Https://www.facebook.com/Aang.Qwerty69
+```
