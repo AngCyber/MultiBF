@@ -5,9 +5,9 @@
 $ pkg update && pkg upgrade
 $ pkg install python git
 $ python -m pip install --upgrade pip
-$ pip install -r multi.tools
 $ git clone https://github.com/AngCyber/MultiBF
 $ cd MultiBF
+$ pip install -r multi.tools
 $ python mlayu.py
 ```
 #### Menu & Features Crack
