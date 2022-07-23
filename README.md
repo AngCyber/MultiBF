@@ -14,7 +14,9 @@ $ pip install -r multi.tools
 $ python multi.py
 ```
 #### Menu & Features Crack
-![IMG_20220720_092747](https://user-images.githubusercontent.com/92802033/179883336-855a1ff4-0561-42ad-b1c1-667b34406e0f.jpg)
+
+![IMG_20220724_020355](https://user-images.githubusercontent.com/92802033/180619465-cdde5bac-56b6-4e5e-9608-3a653385afb9.jpg)
+
 #### Penggunaan
 ``` bash
 > Tools ini support pada perangkat 32bit dan 64bit
