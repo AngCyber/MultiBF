@@ -24,10 +24,5 @@ $ python multi.py
 > Untuk melihat versi perangkat di hp kalian ketik : uname -m
 > Untuk melihat versi python di hp kalian ketik : python --version
 ```
-#### Sosial Media
-``` bash
-• WhatsApp  : Https://wa.me/qr/SKNV5EVO7S2JH1
-• Instagram : Https://www.instagram.com/Aangxd.Qwerty_
-• Donasi    : Https://saweria.co/AangXD
-• Facebook  : Https://www.facebook.com/Aang.Qwerty69
-```
+[![Facebokm Badge](https://img.shields.io/badge/-aang.qwerty69-blue?style=flat&logo=Facebook&logoColor=white&link=https://www.facebook.com/aang.qwerty69/)](https://www.facebook.com/aang.qwerty69) [![Instagram Badge](https://img.shields.io/badge/-aangxd.qwerty_-f01397?style=flat&logo=Instagram&logoColor=white&link=https://www.instagram.com/aangxd.qwerty_/)](https://www.instagram.com/aangxd.qwerty_/) [![WhatsApp Badge](https://img.shields.io/badge/-6283177721763-green?style=flat&logo=WhatsApp&logoColor=white&link=https://wa.me/6283177721763/)](https://wa.me/6283177721763/) [![Saweria Badge](https://img.shields.io/badge/-AangXD-black?style=flat&logo=Saweria&logoColor=white&link=https://saweria.co/AangXD/)](https://saweria.co/AangXD)
+
