@@ -13,9 +13,10 @@ $ git pull
 $ pip install -r multi.tools
 $ python multi.py
 ```
-#### Menu & Features Crack
+#### Results Crack
 
-![IMG_20220724_020355](https://user-images.githubusercontent.com/92802033/180619465-cdde5bac-56b6-4e5e-9608-3a653385afb9.jpg)
+![Screenshot_2022-08-03-03-35-41-92](https://user-images.githubusercontent.com/92802033/182496997-9d3622ac-7652-47c7-81b7-7be414028109.jpg)
+
 
 #### Penggunaan
 ``` bash
