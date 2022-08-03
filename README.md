@@ -1,8 +1,8 @@
 #### Developer Tools
 - [Aang XD]()
 #### Saran
-```Java Scrpit
-Disarankan menggunakan kartu baru atau kartu yang belum pernah untuk crack.
+```python
+Disarankan menggunakan kartu baru atau kartu yang belum pernah dipakai untuk crack.
 Karena ip device nya masih aman, jadi kemungkinan besar mendapat akun OK
 ```
 #### Instalasi Tools
