@@ -1,32 +1,32 @@
-#### Developer Tools
+###### Developer Tools
 - [Aang XD]()
-#### Saran
-```python
+###### Saran
+```
 Disarankan menggunakan kartu baru atau kartu yang belum pernah dipakai untuk crack.
 Karena ip device nya masih aman, jadi kemungkinan besar mendapat akun OK
 ```
-#### Instalasi Tools
-``` bash
-$ pkg update && pkg upgrade
-$ pkg install python git
-$ pkg install play-audio
-$ python -m pip install --upgrade pip
-$ git clone https://github.com/AngCyber/MultiBF
-$ cd MultiBF
-$ ls
-$ git pull
-$ pip install -r multi.tools
-$ python multi.py
+###### Instalasi Tools
+``` hack
+   $ pkg update && pkg upgrade -y
+   $ pkg install python git - y
+   $ pkg install play-audio
+   $ python -m pip install --upgrade pip
+   $ git clone https://github.com/AngCyber/MultiBF
 ```
-#### Results Crack
+###### Run Tools
+``` hack
+   $ cd $HOME/MultiBF
+   $ git pull
+   $ pip install -r requirement.txt
+   $ python run.py
+```
+###### Results For Crack
 
-![Screenshot_2022-08-03-03-35-41-92](https://user-images.githubusercontent.com/92802033/182496997-9d3622ac-7652-47c7-81b7-7be414028109.jpg)
 
-
-#### Penggunaan
+###### Penggunaan
 ``` bash
 > Tools ini support pada perangkat 32bit dan 64bit
-> Dan juga support pada python versi 3.10.5
+> Dan juga support pada python versi 3.11.2
 > Untuk melihat versi perangkat di hp kalian ketik : uname -m
 > Untuk melihat versi python di hp kalian ketik : python --version
 ```
