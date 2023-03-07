@@ -1,12 +1,12 @@
 ###### Developer Tools
 - [Aang XD]()
 ###### Saran
-```
+```python
 Disarankan menggunakan kartu baru atau kartu yang belum pernah dipakai untuk crack.
 Karena ip device nya masih aman, jadi kemungkinan besar mendapat akun OK
 ```
 ###### Instalasi Tools
-``` hack
+```bash
    $ pkg update && pkg upgrade -y
    $ pkg install python git - y
    $ pkg install play-audio
@@ -14,7 +14,7 @@ Karena ip device nya masih aman, jadi kemungkinan besar mendapat akun OK
    $ git clone https://github.com/AngCyber/MultiBF
 ```
 ###### Run Tools
-``` hack
+```bash
    $ cd $HOME/MultiBF
    $ git pull
    $ pip install -r requirement.txt
