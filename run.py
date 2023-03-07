@@ -5,4 +5,4 @@ try:os.mkdir("CP")
 except:pass
 try:os.mkdir("OK")
 except:pass
-menu.Menu_Crack()
+menu.pyc
