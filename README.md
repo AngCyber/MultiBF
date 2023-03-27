@@ -1,3 +1,12 @@
+###### Ingformasi Update :
+- [Dump User]()
+- [Login Cookies]()
+- [Bot Facebook Tools]()
+- [Additional menu]()
+
+[ _wait for further information, thank you_ ]
+
+<!--
 ###### Developer Tools
 - [Aang XD]()
 ###### Saran
