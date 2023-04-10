@@ -1,14 +1,5 @@
-###### Ingformasi Update :
-- [Dump User]()
-- [Login Cookies]()
-- [Bot Facebook Tools]()
-- [Additional menu]()
-
-[ _wait for further information, thank you_ ]
-
-<!--
 ###### Developer Tools
-- [Aang XD]()
+- [Aang Ardiansyah XD]()
 ###### Saran
 ```python
 Disarankan menggunakan kartu baru atau kartu yang belum pernah dipakai untuk crack.
@@ -18,7 +9,6 @@ Karena ip device nya masih aman, jadi kemungkinan besar mendapat akun OK
 ```bash
    $ pkg update && pkg upgrade -y
    $ pkg install python git - y
-   $ pkg install play-audio
    $ python -m pip install --upgrade pip
    $ git clone https://github.com/AngCyber/MultiBF
 ```
@@ -26,12 +16,11 @@ Karena ip device nya masih aman, jadi kemungkinan besar mendapat akun OK
 ```bash
    $ cd $HOME/MultiBF
    $ git pull
-   $ pip install -r requirement.txt
+   $ pip install requests bs4
+   $ pip install get_useragents
    $ python run.py
 ```
 ###### Results For Crack
-![status_me_status_IMG-20230307-WA0006](https://user-images.githubusercontent.com/92802033/223388048-967841c7-7554-4eb0-9465-dc9274567123.jpg)
-
 
 ###### Penggunaan
 ``` bash
