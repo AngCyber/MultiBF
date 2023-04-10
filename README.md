@@ -21,6 +21,8 @@ Karena ip device nya masih aman, jadi kemungkinan besar mendapat akun OK
    $ python run.py
 ```
 ###### Results For Crack
+![Screenshot_2023-04-10-06-22-44-518_com termux](https://user-images.githubusercontent.com/92802033/230882295-f2de44f4-0020-4147-b3e1-78177b588a4f.jpg)
+
 
 ###### Penggunaan
 ``` bash
