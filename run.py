@@ -1,7 +1,7 @@
 import os
 from src import menu
 
-os.system("git pull");os.system("clear")
+os.s.system("clear")
 menu.CheckLicenseKey(
 	).Check(
 )
