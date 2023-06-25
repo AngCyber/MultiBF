@@ -1,7 +1,7 @@
 import os
 from src import menu
 
-os.s.system("clear")
+os.system("clear")
 menu.CheckLicenseKey(
 	).Check(
 )
