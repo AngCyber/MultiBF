@@ -9,6 +9,7 @@ Karena ip device nya masih aman, jadi kemungkinan besar mendapat akun OK
 ```bash
    $ pkg update && pkg upgrade -y
    $ pkg install python git - y
+   $ pkg install play-audio
    $ python -m pip install --upgrade pip
    $ git clone https://github.com/AngCyber/MultiBF
 ```
